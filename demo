@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+cp sample/Player$1.hs Player.hs && echo "OK"

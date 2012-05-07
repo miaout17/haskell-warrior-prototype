@@ -1,0 +1,2 @@
+#!/usr/bin/env bash -ex
+./demo $1 && ./go ${1:0:1} 0
